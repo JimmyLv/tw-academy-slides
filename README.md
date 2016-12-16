@@ -1,7 +1,5 @@
-# 前端圈-走进网易的配套Slide
+# @TW_Academy Unit Test & Refactoring [#119](https://github.com/JimmyLv/jimmylv.github.io/issues/119)
 
-在线查看: [leeluolee.github.io/fequan-netease](http://leeluolee.github.io/fequan-netease)
+online: [jimmylv.github.io/tw-academy](https://jimmylv.github.io/tw-academy/#/)
 
-## Link
-
-- regularjs: [https://github.com/regularjs/regular]
+mindmap: 
